@@ -1,0 +1,5 @@
+Z:\workspace_csharp\DarkstarSharpLib\bin\Debug\DarkstarSharp.dll.config
+Z:\workspace_csharp\DarkstarSharpLib\bin\Debug\DarkstarSharp.dll
+Z:\workspace_csharp\DarkstarSharpLib\bin\Debug\DarkstarSharp.pdb
+Z:\workspace_csharp\DarkstarSharpLib\obj\Debug\DarkstarSharp.dll
+Z:\workspace_csharp\DarkstarSharpLib\obj\Debug\DarkstarSharp.pdb
